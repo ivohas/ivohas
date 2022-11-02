@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ivohas
-- 👀 I’m interested in Math and Programing
 - 🌱 I’m currently learning C# and JS
 - 📫 My email: ivailohasov@gmail.com
 
