@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ivohas
-- 🌱 I’m currently learning C# and JS
+- 🌱 Check out my LinkedIn account: https://www.linkedin.com/in/ivaylo-hasov-97aa89250/
 - 📫 My email: ivailohasov@gmail.com
 
 <!---
